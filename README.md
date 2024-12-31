@@ -25,7 +25,7 @@ Electron is an application designed to build and visualize electrical circuits. 
 
 ## Technology Stack
 
-- **Programming Language**: C
+- **Programming Language**: C++
 - **Graphics Library**: `graphics.h`
 
 This project was our first hands-on experience with software development, combining creativity and technical knowledge to create a practical application. It reflects our efforts and learning during the early stages of our academic journey.
